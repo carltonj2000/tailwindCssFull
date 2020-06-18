@@ -1,0 +1,7 @@
+# Tailwind CSS Full Course
+
+By the Tailwind CSS author.
+
+The code in this repository is based on the
+[Designing with Tailwind CSS: Setting up Tailwind and PostCSS](https://www.youtube.com/watch?v=21HuwjmuS7A&list=PL7CcGwsqRpSM3w9BT_21tUU8JN2SnyckR)
+video.
