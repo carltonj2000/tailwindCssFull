@@ -8,3 +8,9 @@ video.
 
 The course above has a repo
 [here](https://github.com/tailwindcss/designing-with-tailwindcss).
+
+## Development Tools
+
+- VS Code as the editor
+- Sizzy for the browser preview on the right-hand side
+- Tailwind CSS Intellisense for intelligent auto-completion in VS Code
