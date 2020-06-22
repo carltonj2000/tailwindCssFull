@@ -9,6 +9,10 @@ video.
 The course above has a repo
 [here](https://github.com/tailwindcss/designing-with-tailwindcss).
 
+## Run
+
+Build CSS via `npm run build`.
+
 ## Development Tools
 
 - VS Code as the editor
